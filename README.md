@@ -1,47 +1,38 @@
 <div align="center" width="100%">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" />
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="55%" />
 <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%" />
-
-<details>
-<p><strong><summary> Busy coding & vibing to : </summary></strong></p>
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/)
-
-</details>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="33%" />
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=MinaTarek&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MinaTarek&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 
 </div>
 
 <hr>
 
 # 👋 Hey, I'm **Mina Tarek**
-**CS Student (2nd Year) · Java OOP Developer (Beginner) · Cybersecurity (Blue Team) · Networking · ICPC Trainee**
+**CS Student (2nd Year) · Cybersecurity & Networking · Java OOP Developer (Beginner) · ICPC Trainee**
 
-Focused on building a career in **Cyber Defense, Network Security, OOP Development**, and continuously improving step-by-step.
+Focused on building strong fundamentals in **Defensive Security, Networking, OOP Development**, and becoming a solid **Blue Teamer** step-by-step.
 
 ---
 
-# 🛡️ Cybersecurity Journey (Everything I learned so far)
-✔ Networking Essentials  
-✔ Linux Essentials  
+# 🛡️ Cybersecurity Path
+✔ Networking Fundamentals  
+✔ Linux Basics  
 ✔ Nmap (Advanced Techniques)  
 ✔ WiFi Hacking (3 Methods)  
 ✔ DoS Attacks  
 ✔ Reverse Engineering Basics  
-✔ Metasploit Framework (MSF)  
+✔ Metasploit Framework  
 ✔ Database Security  
 ✔ Intro to Ethical Hacking  
-✔ Starting my **Blue Team Path**
 
-🎯 **Currently Studying:**  
-- **CC Certification (ISC)²**  
-- **Network Defense**  
-- **More Linux + Scripting**  
-- **Blue Team Concepts**
+🎯 **Currently learning:**  
+- CC (ISC)² Certification  
+- Blue Team Fundamentals  
+- Network Defense Tools  
+- Linux Scripting  
 
 ---
 
@@ -49,41 +40,43 @@ Focused on building a career in **Cyber Defense, Network Security, OOP Developme
 ✔ Routing & Switching  
 ✔ Subnetting  
 ✔ Troubleshooting  
-✔ CLI Commands  
-✔ Hands-on Labs (EX-Freasher Track)
+✔ Hands-on Labs (EX-Freasher Track)  
+✔ Network Scanning & Enumeration  
 
 ---
 
-# ☕ Java OOP Development
-✔ Full OOP (Classes, Inheritance, Encapsulation, Polymorphism…)  
-✔ Java Swing GUI  
+# ☕ Java OOP Development (Beginner)
+✔ Full OOP Concepts  
+✔ Java Swing (GUI)  
 ✔ SQL Server Integration  
-✔ Debugging + Clean Code  
-✔ Building Desktop Apps  
+✔ Clean Code  
+✔ Debugging  
+✔ Desktop App Development  
 
 ---
 
-# 📚 University Project
+# 📚 Featured Project
 ## **📘 Book Store Management System (Java + SQL Server)**
 - Full CRUD operations  
-- GUI using Java Swing  
-- Database schema design  
+- Java Swing GUI  
 - SQL Server integration  
-- Team collaboration  
-- Clean code + OOP applied properly
+- Database schema design  
+- Applied OOP + clean code  
+- Team-based development  
 
 ---
 
-# 🧠 ICPC (Competitive Programming)
-✔ Problem Solving  
-✔ Algorithms & Data Structures  
+# 🧠 Competitive Programming (ICPC)
+✔ Data Structures  
+✔ Algorithms  
 ✔ C++ practice  
-✔ Code Optimization  
-✔ Time Management
+✔ Problem Solving  
+✔ Time Optimization  
 
 ---
 
-# 🚀 Tools I Use
+# 🛠️ Tools & Technologies
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
@@ -92,11 +85,11 @@ Focused on building a career in **Cyber Defense, Network Security, OOP Developme
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
-![SQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visualstudiocode)
 
 ```dart
-// tools_I_use organized
+// tools_I_use organized (clean & professional)
 
 class About extends Me { 
   const myTools = {  
@@ -106,7 +99,7 @@ class About extends Me {
     "Database" : { "SQL Server" },
     "Editors" : { "VSCode", "Sublime", "Neovim" },
     "Platforms" : { "Windows", "Linux" },
-    "CyberTools" : { "Nmap", "MSF", "WiFi Tools" },
+    "CyberTools" : { "Nmap", "MSF" },
     "OtherTools" : { "Git" }
   };
 }
