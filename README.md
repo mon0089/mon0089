@@ -83,14 +83,4 @@ Cybersecurity & Networking · Java OOP (Beginner) · ICPC Trainee
 // tools_I_use organized (clean & professional)
 
 class About extends Me { 
-  const myTools = {  
-    "ProgrammingLanguages" : { "Java (OOP)", "C++", "Python" },
-    "WebBasics" : { "HTML", "CSS" },
-    "Shell" : { "Bash" },
-    "Database" : { "SQL Server" },
-    "Editors" : { "VSCode", "Sublime", "Neovim" },
-    "Platforms" : { "Windows", "Linux" },
-    "CyberTools" : { "Nmap", "MSF" },
-    "OtherTools" : { "Git" }
-  };
-}
+  const myTools = {
