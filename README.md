@@ -81,6 +81,15 @@ Cybersecurity & Networking · Java OOP (Beginner) · ICPC Trainee
 
 ---
 
+# 🎯 Goals (2025)
+- Finish **CC (ISC)²** with strong fundamentals  
+- Build **2 security-focused projects** (Blue Team oriented)  
+- Improve **Linux & shell scripting**  
+- Strengthen **network defense & detection** skills  
+- Practice **Java OOP** by building more small apps  
+
+---
+
 # 📌 What I’m focused on now  
 - Studying **CC (ISC)²**  
 - Strengthening **Blue Team fundamentals**  
