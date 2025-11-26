@@ -79,8 +79,38 @@ Cybersecurity & Networking · Java OOP (Beginner) · ICPC Trainee
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visualstudiocode)  
 
-```dart
-// tools_I_use organized (clean & professional)
+---
 
-class About extends Me { 
-  const myTools = {
+# 📌 What I’m focused on now  
+- Studying **CC (ISC)²**  
+- Strengthening **Blue Team fundamentals**  
+- Practicing **Network Defense**  
+- Building small **Java OOP projects**  
+- Improving **Linux skills**  
+
+---
+
+# 🏅 Activities & Training  
+- **GDG** — Cybersecurity Track  
+- **EX-Freasher** — Networking Track  
+- **ICPC** — Algorithms & Data Structures  
+- **University Labs** — DB Security, OOP  
+
+---
+
+# 📊 GitHub Stats (Professional Look)  
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32%">
+
+</div>
+
+---
+
+# 📬 Contact  
+📧 Email: **minatarek3313@gmail.com**  
+💼 LinkedIn: **https://linkedin.com/in/minatarekq**  
+
+---
