@@ -103,4 +103,12 @@ Cybersecurity & Networking · Java OOP (Beginner) · ICPC Trainee
 - **GDG** — Cybersecurity Track  
 - **EX-Freasher** — Networking Track  
 - **ICPC** — Algorithms & Data Structures  
-- **University
+- **University Labs** — DB Security, OOP  
+
+---
+
+# 📬 Contact  
+📧 Email: **minatarek3313@gmail.com**  
+💼 LinkedIn: **https://linkedin.com/in/minatarekq**  
+
+---
